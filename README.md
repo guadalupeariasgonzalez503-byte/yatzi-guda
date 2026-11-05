@@ -1,5 +1,5 @@
 #Markdown
-# ¡Hola! 👋 Soy Juan Pérez
+# ¡Hola! 👋 Soy yatziry guadalupe
 
 ## 🖼️ Sobre mí
 Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
@@ -14,5 +14,5 @@ Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrol
 - **Sistemas Operativos:** Windows, Linux (básico).
 
 ## 📬 Cómo contactarme
-- **Correo:** juan.perez@ejemplo.com
+- **Correo:** yatzi.guda@ejemplo.com
 - **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
