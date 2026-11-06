@@ -18,7 +18,7 @@ Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrol
 - **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
 markdown<div align="center">
 
-# Hola, soy Juan Pérez 👋
+# Hola, soy yatziry guadalupe 👋
 ### Frontend Web Developer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Programando" />
